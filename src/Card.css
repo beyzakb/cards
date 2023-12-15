@@ -1,0 +1,31 @@
+.card{
+    width: 300px;
+    height: 700px;
+    background-color: #91b3de;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.cardBody{
+    text-align: center;
+    font-family: 'Antic Slab', serif;
+    
+}
+.cardBody img{
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    
+}
+.about{
+    width: 100%;
+    line-height: 1.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.about p{
+    margin-top: 20px;
+}
